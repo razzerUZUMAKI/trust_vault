@@ -1,0 +1,6 @@
+node_modules
+.env
+serviceAccount.json
+package-lock2.json
+package2.json
+server2.js
